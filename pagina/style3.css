@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: sans-serif;
+  /* background: linear-gradient(to right, #8e2de2, #4a00e0, #2ec4ff);; */
+  background-image: url(/img/administracion-de-empresas-en-colombia-1.png);
+  background-repeat: no-repeat;
+  
+}
+

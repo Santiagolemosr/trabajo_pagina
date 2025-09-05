@@ -1,0 +1,74 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: sans-serif;
+  background: linear-gradient(to right, #8e2de2, #4a00e0, #2ec4ff);;
+}
+
+.login {
+  background: rgb(255, 255, 255);
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  height: 350px;
+  width: 300px;
+
+ 
+}
+
+.icon{
+    text-align: left;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+label {
+  display: block;
+  text-align: left;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+input, button {
+  width: 90%;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 15px;
+ 
+}
+
+button {
+  background: #2c6ed5;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+button:hover {
+  background: #1b4f9c;
+}
+
+.Entrar a{
+    text-decoration: none;
+    list-style: none;
+    margin-bottom: 10pxs;
+    gap: 30%;
+   
+}
+
+
+
+
+
+    
+
+ 
