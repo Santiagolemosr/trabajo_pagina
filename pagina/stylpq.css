@@ -1,0 +1,51 @@
+.peluqueria {
+  max-width: 800px;       /* Limita el ancho para mejor lectura */
+  margin: 40px auto;      /* Centra el contenido y da espacio arriba y abajo */
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+  background-color: #b7e1f1;  
+  border-radius: 8px;          
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1); /* Sombra  */
+}
+
+/* Título principal */
+.img1{
+    border-radius: 6%;
+}
+
+.peluqueria h1 {
+  color: #1f2020; 
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Subtítulos */
+.peluqueria h2 {
+  color: #191a1a;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid #4CAF50;
+  padding-bottom: 5px;
+}
+
+/* Párrafos */
+.peluqueria p {
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+
+.peluqueria ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 20px;
+  list-style: none;
+  text-align: left;
+}
+
+
+
+/*                        INICIO DE SESION                   */

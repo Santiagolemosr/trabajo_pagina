@@ -273,8 +273,6 @@ footer {
  /*sesion peluqueria*/
     
 
-
-
 .peluqueria {
   max-width: 800px;       /* Limita el ancho para mejor lectura */
   margin: 40px auto;      /* Centra el contenido y da espacio arriba y abajo */
@@ -292,14 +290,14 @@ footer {
 }
 
 .peluqueria h1 {
-  color: #18ebbd; 
+  color: #1f2020; 
   text-align: center;
   margin-bottom: 20px;
 }
 
 /* Subtítulos */
 .peluqueria h2 {
-  color: #8e9696;
+  color: #191a1a;
   margin-top: 30px;
   margin-bottom: 10px;
   border-bottom: 2px solid #4CAF50;
@@ -326,3 +324,5 @@ footer {
 
 
 /*                        INICIO DE SESION                   */
+
+
