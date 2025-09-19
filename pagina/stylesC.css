@@ -1,0 +1,70 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f9;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.contenedor {
+  max-width: 600px;
+  margin: auto;
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.carrera {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #e9ecef;
+  margin: 10px 0;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+.carrera span {
+  font-size: 16px;
+  font-weight: bold;
+  color: #444;
+}
+
+.btn-cancelar {
+  background: #e63946;
+  border: none;
+  color: white;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btn-cancelar:hover {
+  background: #d62828;
+}
+
+.btn-back {
+  position: fixed;
+  top: 15px;
+  left: 15px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  color: #e63946;
+  background: #fff;
+  padding: 8px 12px;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.btn-back:hover {
+  background: #e63946;
+  color: #fff;
+}
